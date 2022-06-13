@@ -1,4 +1,3 @@
-# UFO_Sightings
 # UFO Sightings
 ## Purpose
 The client is a journalist interested in her home town McMinnville,  Oregon. The town is famous for UFO sightings. To help her with her research I created a webpage with a dynamic table where she can filter and view the UFO data, but sadly no McMinnville sightings were present in the data.
@@ -70,24 +69,24 @@ function updateFilters() {
 ```
 ## Results
 View Website [UFO Sightings]( https://michelaz.github.io/UFO_Sightings/index.html)
-![UFO Sightings thumbnail]()
+![UFO Sightings thumbnail](https://github.com/MichelaZ/UFO_Sightings/blob/main/Resources/Ufo_Sightings.png)
 
 ### How to Filter the UFO Sightings Data Table:
 The table will display all the data if not filters are added into the filter search form. If there is no data matching the value then the table will appear to be empty. The table can be filtered by one or more of the following: date, city, state, country, and/or UFO shape.
 - To filter by date: type a date into the enter date input. Then hit enter on your keyboard.
-![date filter]()
+![date filter](https://github.com/MichelaZ/UFO_Sightings/blob/main/Resources/date_filter.png)
 
 - To filter by city: type a city into the enter city input. Then hit enter on your keyboard.
-![city filter]()
+![city filter](https://github.com/MichelaZ/UFO_Sightings/blob/main/Resources/city_filter.png)
 
 - To filter by state: type a state into the enter state input. Then hit enter on your keyboard.
-![state filter]()
+![state filter](https://github.com/MichelaZ/UFO_Sightings/blob/main/Resources/state_filter.png)
 
 - To filter by country: type a country into the enter country input. Then hit enter on your keyboard.
-![country filter]()
+![country filter](https://github.com/MichelaZ/UFO_Sightings/blob/main/Resources/country_filter.png)
 
 - To filter by UFO shape: type a shape into the enter shape input. Then hit enter on your keyboard.
-![shape filter]()
+![shape filter](https://github.com/MichelaZ/UFO_Sightings/blob/main/Resources/shape_filter.png)
 
 ### Summary:
 The sample of data is too small to provide sufficient information evidence supporting the existence of aliens. There are also some errors in the data, for example, one entry has “downtown” as the duration. I think a good way to get more data would be to add an entry form to this website where people could post about their sightings and maybe even upload images/videos. Currently there are no data summary tables or charts to visualize trends in the data and with the data how it is now it would be difficult, but adding some consistency in the data entry would make that easier.
